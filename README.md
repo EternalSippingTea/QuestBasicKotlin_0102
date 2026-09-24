@@ -37,6 +37,9 @@ WHILE loop
 Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5a010bbd-93b2-4efd-96b3-96a202f58b10" />
 
+Named Argument
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b58ebba2-5451-4654-a72a-7227ad366978" />
+
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
