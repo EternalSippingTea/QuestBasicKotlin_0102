@@ -25,6 +25,8 @@ Contoh 1
 Contoh 2
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1789f1c9-160d-4d4c-bc67-2d9e34c6c6c8" />
 
+Ranges
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3de8da93-0a93-4f1e-a455-752bb9ca9d0e" />
 
 
 Functions
