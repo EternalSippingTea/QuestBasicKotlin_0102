@@ -56,6 +56,7 @@ Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
 Data classes
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/8c938445-e45d-4f8c-a447-1323ab0f4cda" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bf72a778-a6c1-4e6c-b5c7-c494f6d96075" />
 
 Nullable Types
