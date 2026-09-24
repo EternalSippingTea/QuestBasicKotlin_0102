@@ -19,3 +19,8 @@ Map
 
 IF
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a539813d-7717-4fa0-8f26-32fcdf80ef75" />
+
+WHEN Contoh 1 :
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/73cf117a-126c-464f-8afa-afae3069e4d9" />
+
+
