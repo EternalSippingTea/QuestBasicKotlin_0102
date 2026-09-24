@@ -1,5 +1,4 @@
 # QuestBasicKotlin_0102
-Function
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/16e826be-5048-4753-9228-952935b88410" />
 
 String Template
@@ -22,6 +21,9 @@ IF
 
 WHEN Contoh 1 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/73cf117a-126c-464f-8afa-afae3069e4d9" />
+
+Functions
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5a010bbd-93b2-4efd-96b3-96a202f58b10" />
 
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
