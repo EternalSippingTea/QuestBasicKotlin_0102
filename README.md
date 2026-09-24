@@ -55,6 +55,9 @@ Class & Properties with Access Properties
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
+Nullable Types
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3774a26d-12c2-488f-b726-9b0adf21b84d" />
+
 Checking for Null Values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9be0db1f-8b62-4aa2-a731-fdb33658036b" />
 
