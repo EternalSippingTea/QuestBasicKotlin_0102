@@ -46,6 +46,9 @@ Default parameter values
 Functions without return
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0f60a023-b3de-4035-976f-3d50acfcd04c" />
 
+Lambda expressions
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/91a944b0-975e-4a3a-ac11-81c3d821c65d" />
+
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
