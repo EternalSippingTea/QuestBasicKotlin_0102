@@ -23,6 +23,8 @@ IF
 WHEN Contoh 1 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/73cf117a-126c-464f-8afa-afae3069e4d9" />
 
+Member Functions
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
 Checking for Null Values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9be0db1f-8b62-4aa2-a731-fdb33658036b" />
