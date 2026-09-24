@@ -16,3 +16,6 @@ Set
 
 Map
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f1d37d5e-c4fa-4883-9436-be22db137ded" />
+
+IF
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a539813d-7717-4fa0-8f26-32fcdf80ef75" />
