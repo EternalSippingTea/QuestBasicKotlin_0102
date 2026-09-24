@@ -10,3 +10,6 @@ Some Data Types
 
 List
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/853bdffd-2298-42df-9540-f3a765a73176" />
+
+Set
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7bf0d57e-2371-4f48-b866-3555955ece0f" />
