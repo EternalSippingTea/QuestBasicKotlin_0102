@@ -43,6 +43,9 @@ Named Argument
 Default parameter values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9b85bf2-7e68-4ff0-87ce-2a346cea36c0" />
 
+Functions without return
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0f60a023-b3de-4035-976f-3d50acfcd04c" />
+
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
