@@ -28,6 +28,11 @@ Contoh 2
 Ranges
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3de8da93-0a93-4f1e-a455-752bb9ca9d0e" />
 
+FOR loop
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/46b23946-c12b-41ed-bc27-c946ed8d68c9" />
+
+WHILE loop
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/16a8f3d3-7999-4a41-a3bb-605606baeba3" />
 
 Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5a010bbd-93b2-4efd-96b3-96a202f58b10" />
