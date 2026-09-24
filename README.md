@@ -40,6 +40,9 @@ Functions
 Named Argument
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b58ebba2-5451-4654-a72a-7227ad366978" />
 
+Default parameter values
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9b85bf2-7e68-4ff0-87ce-2a346cea36c0" />
+
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
