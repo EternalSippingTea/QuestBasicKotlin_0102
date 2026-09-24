@@ -23,6 +23,10 @@ IF
 WHEN Contoh 1 
 <img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/73cf117a-126c-464f-8afa-afae3069e4d9" />
 
+Using Safe Calls
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/287830e5-0013-4853-bd27-f25fc7eb04ce" />
+
+
 Elvis Operator
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d8a7f8e5-aac2-4184-b6eb-87aa570a72e7" />
 
