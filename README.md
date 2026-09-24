@@ -49,6 +49,9 @@ Functions without return
 Lambda expressions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/91a944b0-975e-4a3a-ac11-81c3d821c65d" />
 
+Class & Properties with Access Properties
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a03afc9c-5f3e-4af1-936b-2dbe6648c833" />
+
 Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3258c5-9dfc-4a10-8790-957e68a9bd6b" />
 
