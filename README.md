@@ -13,3 +13,6 @@ List
 
 Set
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7bf0d57e-2371-4f48-b866-3555955ece0f" />
+
+Map
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f1d37d5e-c4fa-4883-9436-be22db137ded" />
